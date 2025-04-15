@@ -1,0 +1,1 @@
+Este é um jogo onde o personagem pode pular usando a tecla Espaço. O objetivo é evitar obstáculos (a serem adicionados) pulando sobre eles. O personagem tem um limite de pulos que diminui conforme é usado.
